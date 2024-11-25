@@ -1,6 +1,6 @@
-# To Do List
+# Cidadágil
 
-Uma breve descrição do que o projeto faz e qual o seu propósito. - cibelly
+O projeto é um Sistema Integrado de Gestão e Serviços Públicos que conecta cidadãos e prefeituras de forma eficiente, eliminando burocracias e otimizando o acesso a serviços públicos e informações municipais.
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -21,28 +21,17 @@ Uma breve descrição do que o projeto faz e qual o seu propósito. - cibelly
 - [Autores](#autores)
 
 ## 📝 Sobre o Projeto
-Descreva o que o projeto faz, para quem ele é destinado, e por que ele é útil.
+O sistema foi desenvolvido para modernizar a comunicação entre cidadãos e prefeituras, oferecendo uma plataforma centralizada que facilita o acesso a serviços como emissão de documentos, consulta de informações e solicitação de atendimentos. O sistema busca aproximar a administração pública da população, contribuindo para uma relação mais acessível, direta e confiável.
 
-Exemplo:
-> "Esse projeto é uma aplicação web para gerenciamento de listas de presença em eventos. Ele permite que os usuários registrem suas presenças e visualizem relatórios sobre a frequência."
-
-## 🔧 Pré-requisitos
-Liste as ferramentas e versões necessárias para rodar o projeto. Por exemplo:
-
-- Node.js >= 14.17.0
-- NPM >= 6.14.13
-- Docker (opcional)
+## 🔧 Ferramentas
+- Node.js
+- NPM
+- Expo
+- React Native
 
 ## 🚀 Instalação
 Explique como instalar o projeto localmente.
 
-```bash
-# Clone o repositório
-git clone https://github.com/usuario/projeto.git
-
-# Acesse o diretório do projeto
-cd projeto
-
-# Instale as dependências
-npm install
+## ✔️ Licença
+Este projeto está licenciado sob os termos da licença MIT.
 
