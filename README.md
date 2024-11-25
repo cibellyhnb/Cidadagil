@@ -19,9 +19,6 @@ O sistema foi desenvolvido para modernizar a comunicação entre cidadãos e pre
 - Expo
 - React Native
 
-## 🚀 Instalação
-Explique como instalar o projeto localmente.
-
 ## ✔️ Licença
 Este projeto está licenciado sob os termos da licença MIT.
 
