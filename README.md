@@ -10,16 +10,6 @@ O projeto é um Sistema Integrado de Gestão e Serviços Públicos que conecta c
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-v20.17.0-brightgreen)
 
-## 📋 Índice
-- [Sobre o Projeto](#sobre-o-projeto)
-- [Pré-requisitos](#pré-requisitos)
-- [Instalação](#instalação)
-- [Como Usar](#como-usar)
-- [Testes](#testes)
-- [Contribuição](#contribuição)
-- [Licença](#licença)
-- [Autores](#autores)
-
 ## 📝 Sobre o Projeto
 O sistema foi desenvolvido para modernizar a comunicação entre cidadãos e prefeituras, oferecendo uma plataforma centralizada que facilita o acesso a serviços como emissão de documentos, consulta de informações e solicitação de atendimentos. O sistema busca aproximar a administração pública da população, contribuindo para uma relação mais acessível, direta e confiável.
 
